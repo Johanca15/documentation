@@ -203,7 +203,7 @@ Attendees may be other users on your Nextcloud instances, contacts in your addre
 Checking attendees' busy times
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-After inviting attendees to an event you can click on ``Find a time`` to bring up this modal to see when everyone has other events to help you decide on a time when everyone is free.
+After adding attendees to an event you can click on ``Find a time`` to bring up the "Free / Busy" modal. It allows you to see when each attendee has other events, and can help you decide on a time when everyone is free.
 
 .. figure:: images/calendar_free_busy_modal.png
    :scale: 70%
