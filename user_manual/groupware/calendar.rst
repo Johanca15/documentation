@@ -399,5 +399,5 @@ If attendees wish to cancel the appointment they have to get in contact with the
 Create Talk room for booked appointments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can create a Talk room directly from the calendar app for a booked appointment. The option can be found on the 'Create appointment' modal. A unique link will be generated for every booked appointment and sent via the confirmation email when you check this option.
+You can create a Talk room directly from the calendar app for a booked appointment. The option can be found on the 'Create appointment' modal. A unique link will be generated for every booked appointment and sent via the confirmation email when you check this option. 
 
